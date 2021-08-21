@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub solution](https://github.com/TrnLinh/Huddle-landing-page.github.io.git)
-- Live Site URL: [Website solution](https://your-live-site-url.com)
+- Live Site URL: [Website solution](https://trnlinh.github.io/Huddle-landing-page.github.io/)
 
 ## My process
 
